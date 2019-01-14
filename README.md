@@ -30,7 +30,7 @@ Step 2. Add the dependency
 
 Step 3. Show the floating logcat
 ```
-new FloatingConsoleView(getApplicationContext());
+new FloagingLogcatView(getApplicationContext());
 ```
 
 # Usage
