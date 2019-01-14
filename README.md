@@ -35,3 +35,5 @@ new FloagingLogcatView(getApplicationContext());
 
 # Usage
 Longpress logcat view to switch setting page or logcat page. In setting page, you can set filter tag.
+
+Drag logcat view to change the position.
