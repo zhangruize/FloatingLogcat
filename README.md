@@ -27,3 +27,11 @@ Step 2. Add the dependency
 	        implementation 'com.github.zhangruize:FloatingLogcat:Tag'
 	}
 ```
+
+Step 3. Show the floating logcat
+```
+new FloatingConsoleView(getApplicationContext());
+```
+
+# Usage
+Longpress logcat view to switch setting page or logcat page. In setting page, you can set filter tag.
